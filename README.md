@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian Grosso</h1>
-<h3 align="center">A passionate full-stack engineer in Newark, NJ USA.</h3>
+<h1 align="center">Hi 👋, I'm modelB</h1>
+<h3 align="center">A passionate web3 full-stack engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modelb&label=Profile%20views&color=0e75b6&style=flat" alt="modelb" /> </p>
 
